@@ -1,0 +1,7 @@
+.idea
+node_modules
+.git*
+.gitignore
+rollup-config.js
+src
+*.md

@@ -1,0 +1,36 @@
+{
+  "name": "@cube00y-react/use-ripple",
+  "version": "1.0.0",
+  "description": "React ripple effect custom hooks",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cube-00y/react-use-ripple-hooks.git"
+  },
+  "keywords": [
+    "React",
+    "Hook",
+    "Ripple"
+  ],
+  "author": "cube00y",
+  "license": "MIT",
+  "homepage": "https://github.com/cube-00y/react-use-ripple-hooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-react-app": "^10.0.0",
+    "babel-runtime": "^6.26.0",
+    "rollup": "^2.50.0",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "@cube-00y/use-ripple",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React ripple effect custom hooks",
   "main": "dist/index.js",
   "scripts": {
